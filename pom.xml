@@ -67,6 +67,7 @@
 							<artifactId>lombok</artifactId>
 						</exclude>
 					</excludes>
+					<mainClass>com.example.registrationlogindemo.RegistrationLoginDemoApplication</mainClass>
 				</configuration>
 			</plugin>
 		</plugins>
